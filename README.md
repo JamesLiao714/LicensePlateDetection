@@ -1,3 +1,3 @@
 # object-detection
 
-object detection on Vehicle registration plates 
+Object detection on vehicle registration plates 
