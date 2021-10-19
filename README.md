@@ -1,6 +1,6 @@
 # Object detection on vehicle registration plates 
 
-## Prerequisites:
+### Prerequisites:
 - Pytorch
 - CUDA10.1+ CuDNN
 
